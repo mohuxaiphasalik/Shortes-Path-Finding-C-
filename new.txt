@@ -1,0 +1,11 @@
+islamabad rawalpindi 10 murree 100 ;
+lahore rawalpindi 190 multan 300 faislabad 350 karachi 2000 ;
+peshawar rawalpindi 200 murree 260 karachi 3700 ;
+faislabad lahore 350 multan 310 karachi 3000 quetta 1500 ;
+rawalpindi islamabad 10 lahore 190 peshaware 200 ;
+multan faislabad 310 lahore 300 karachi 3500 quetta 800 ;
+murree islamabad 100 peshawar 260 rawalpindi 110 ;
+karachi lahore 2000 multan 3500 peshawar 3700 quetta 1000 guddu 700 ;
+quetta karachi 1000 faislabad 1500 multan 800 guddu 1150 hyderabad 650 ;
+hyderabad karachi 200 guddu 500 quetta 650 ;
+guddu karachi 700 hyderabad 500 quetta 1150 ;
